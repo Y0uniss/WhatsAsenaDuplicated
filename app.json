@@ -10,7 +10,7 @@
     "env": {
         "ASENA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
-            "required": true
+            "required": fales
         },
         "SUDO": {
             "description": "Kullanıcılara tüm yetkileri verir. It gives all the privileges to the users. => 90xxx,0,90xxx,0,90xxx...",
